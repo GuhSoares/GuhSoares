@@ -1,20 +1,22 @@
 <!-- Header -->
-[![](https://visitcount.itsvg.in/api?id=GuhSoares&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GuhSoares&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+Welcome!+👋;+I'm+Gustavo+Soares!;" />
+<h1 align="center" style="border-bottom: none; margin-top: 40px">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=1000&color=FF2D8A&width=435&lines=Welcome+to+my+GitHub!;Embarking+on+my+programming+journey!++%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h1>
 <!-- /Header -->
 
 
 <!-- Top -->
-<h1 align="center" style="border-bottom: none">⚡ Stats ⚡</h1>
+<h1 align="center" style="border-bottom: none; color: #FF2D8AFF;">
+⚡ Stats ⚡
+</h1>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=GuhSoares&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=GuhSoares&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=410 src="https://streak-stats.demolab.com/?user=GuhSoares&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=GuhSoares&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GuhSoares&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GuhSoares&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <!-- /Top -->
 
@@ -36,7 +38,7 @@
 </div>
 
 <!-- /Middle -->
-<div align="center">
+<div align="center" style="border-bottom: none; color: #FF2D8AFF;">
   <h2>🐍 My Contributions! 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/GuhSoares/GuhSoares/blob/output/github-contribution-grid-snake.svg" />
