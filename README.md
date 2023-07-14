@@ -8,8 +8,8 @@
 
 
 <!-- Top -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h1 align="center" style="border-bottom: none">⚡ Stats ⚡</h1>
+
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=GuhSoares&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=GuhSoares&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -34,7 +34,14 @@
   &nbsp;
   <img align="center" alt="guhsoares-js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 </div>
+
 <!-- /Middle -->
+<div align="center">
+  <h2>🐍 My Contributions! 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/GuhSoares/GuhSoares/blob/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 <!-- Bottom -->
 <div align="center"> 
