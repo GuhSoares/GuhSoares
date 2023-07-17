@@ -1,5 +1,5 @@
 <!-- Header -->
-[![](https://visitcount.itsvg.in/api?id=GuhSoares&icon=6&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GuhSoares&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <div align="center" >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=FF2D8A&center=true&vCenter=true&height=30&lines=Welcome+to+my+GitHub!;My+programming+journey!" alt="Typing SVG" /></a>
