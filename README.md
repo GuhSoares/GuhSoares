@@ -34,7 +34,7 @@
   &nbsp;
   <img align="center" alt="guhsoares-js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
     &nbsp;
-    <img align="center" alt="guhsoares-dart" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="guhsoares-dart" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 <!-- /Middle -->
